@@ -1,0 +1,5 @@
+name: AutoTNT
+version: ${project.version}
+main: org.apache.maven.plugins.AutoTNT
+load: STARTUP
+authors: [ Adriks ]
